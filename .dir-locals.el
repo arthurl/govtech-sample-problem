@@ -1,0 +1,7 @@
+((nil . ((truncate-lines . t)
+         (indent-tabs-mode . nil)
+         (fill-column . 80)))
+ (python-mode . ((fill-column . 79)))
+ (markdown-mode . ((truncate-lines . nil)))
+ (gfm-mode . ((truncate-lines . nil)))
+ (tex-mode . ((truncate-lines . nil))))
